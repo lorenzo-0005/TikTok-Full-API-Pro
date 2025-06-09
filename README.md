@@ -1,4 +1,4 @@
-# 🎵 TikTok Full API Pro v2.9.1 (2025) 🎵
+## TikTok Full API Pro v2.9.1 (2025) 
 
 🇨🇳 专为中国市场优化 / Optimized for China Market 🇨🇳
 
@@ -26,21 +26,15 @@
 
 ---
 
-## 🚦 免责声明 Disclaimer:
-
-本软件仅用于教育目的，禁止用于非法用途。  
-Software is provided for educational purposes only. The developer is not responsible for any misuse.
-
----
 
 ## 📞 联系 Contact:
 
 👉 Telegram: [@danirueaq](https://t.me/danirueaq)  
 
+telegram channel : https://t.me/Sectools1
 
 ---
 
 **🌟 为中国开发者提供强大 API 工具 / Powerful API Tools for Chinese Developers 🌟**
 
 ---
-
