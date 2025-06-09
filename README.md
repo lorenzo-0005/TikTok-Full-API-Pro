@@ -14,12 +14,6 @@
 ✅ API 上传视频 Upload Video via API  
 
 ---
-
-## 🎥 演示 Demo:
-
-- [Demo Video Here](https://your-demo-link.com)  
-- 截图见 `/demo/` 文件夹 Screenshots available in `/demo/` folder.
-
 ---
 
 ## 🚀 为什么选择我们的工具 Why Choose Us:
